@@ -1,6 +1,6 @@
 {
   "name": "tailwind-prefixer",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Vite plugin to add prefixes to your Tailwind classes in your JSX/TSX",
   "type": "module",
   "main": "dist/index.js",
